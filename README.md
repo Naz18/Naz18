@@ -1,1 +1,3 @@
-https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
+
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/926723912690196490?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/964560323552083988)
