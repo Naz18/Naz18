@@ -1,1 +1,1 @@
-https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white
+https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
