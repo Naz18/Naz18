@@ -1,7 +1,7 @@
 ### Selam Ben Berat Altyapı Çalan :) <img src = "https://cdn.discordapp.com/emojis/920791355196833852.png?v=1" high="20px" width="30px">
 ![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=BenBerat&color=red)&nbsp;
-[![GitHub acarfx](https://img.shields.io/github/followers/Adonciafx?label=follow&style=social)](https://github.com/Adonciafx)&nbsp;
+[![GitHub acarfx](https://img.shields.io/github/followers/BenBerat?label=follow&style=social)](https://github.com/BenBerat)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 <br>
 
