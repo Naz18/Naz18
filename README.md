@@ -12,7 +12,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-## ⚡ Contact
+## ⚡ Linkler
 <div align="center">
  <a href="https://discord.com/users/980132959401173052" target="_blank"><img src="https://shields.io/badge/BenBerat-111111.svg?&style=for-the-badge&logo=discord"></a>    <a href="https://github.com/BenBerat" target="_blank"><img src="https://shields.io/badge/BenBerat-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://discord.gg/safecode" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
