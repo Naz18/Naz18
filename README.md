@@ -5,7 +5,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 <br>
 
-### 🛠 &nbsp;Software Languages
+### 🛠 &nbsp; Bildigim Yazılım Dilleri
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
