@@ -2,7 +2,6 @@
 ![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=BenBerat&color=red)&nbsp;
 [![GitHub acarfx](https://img.shields.io/github/followers/BenBerat?label=follow&style=social)](https://github.com/BenBerat)&nbsp;
-<a href="https://instagram.com/jaylen_ozi"><img src="https://img.shields.io/badge/@jaylen_ozi-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/980132959401173052?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/980132959401173052)
